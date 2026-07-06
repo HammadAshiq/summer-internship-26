@@ -1,0 +1,10 @@
+# Build artifacts
+*.o
+*.out
+task_1/matmul_bench
+task_1/blis/
+
+# General
+__pycache__/
+*.pyc
+.DS_Store
